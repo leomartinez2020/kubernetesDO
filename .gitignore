@@ -1,0 +1,7 @@
+.env
+bearerToken.txt
+script.py
+script2.py
+__pycache__
+alapp/
+twit_response.txt
